@@ -17,3 +17,6 @@ Sheet đang bị khóa (Protect) thì add-in tự bỏ qua.
 Lưu ý quan trọng: Khi add-in đang bật, Ctrl+Z (Undo) sẽ không dùng được, vì mọi macro thay đổi sheet đều làm Excel xóa lịch sử Undo. Lúc cần nhập liệu và hay phải Undo, nhấn Ctrl+Shift+H để tắt tạm.
 
 Nếu dùng Microsoft 365 bản mới, hãy xem trong View có nút Focus Cell không. Đó là tính năng tô sáng dòng và cột có sẵn của Excel và không làm mất Undo, nên có thể không cần đến add-in này.
+
+Ver 2 thêm chức năng đổi màu
+Ctrl+Shift+K	Đổi màu (1–5 màu có sẵn, 6 là tự chọn)
